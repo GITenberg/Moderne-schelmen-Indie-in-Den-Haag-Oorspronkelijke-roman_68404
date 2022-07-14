@@ -1,0 +1,32 @@
+_repo: Moderne-schelmen-Indie-in-Den-Haag-Oorspronkelijke-roman_68404
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dermout, Jacob
+    aliases:
+    - Dermoût, J.
+    - Dermout, J.
+    gutenberg_agent_id: '52705'
+    url: http://www.gutenberg.org/2009/agents/52705
+description: ''
+gutenberg_issued: '2022-06-25'
+identifiers:
+  gutenberg: '68404'
+language: nl
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=coo.31924023995875
+pgterms:marc905: 20201206021905dermot
+pgterms:marc906: '1906'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from images
+  made available by the HathiTrust Digital Library.)
+publication_note: Netherlands :A. W. Bruna & Zoon,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Moderne schelmen (Indië in Den Haag): Oorspronkelijke roman'
+url: http://www.gutenberg.org/ebooks/68404
